@@ -1,0 +1,13 @@
+# Blender 4.2.0 MTL File: 'ceiling_actual12.blend'
+# www.blender.org
+
+newmtl Material.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/ralan/PycharmProjects/Downloads/floors-and-ceiling-modular-construction-pack/textures/floors_Material_BaseColor.png
+map_Bump -bm 1.000000 C:/Users/ralan/PycharmProjects/Downloads/floors-and-ceiling-modular-construction-pack/textures/floors_Material_Normal.png
